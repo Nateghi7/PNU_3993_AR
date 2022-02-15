@@ -1,8 +1,8 @@
 # PNU_3993_AR
 Final Project and Internship
 
-- Final Project   132209431 (Course Code)
--Internship      132202931 (Course Code)
+- [Final Project   132209431 (Course Code)]
+- [Internship      132202931 (Course Code)]
 
 <div dir="rtl">
 
