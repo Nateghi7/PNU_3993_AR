@@ -12,4 +12,4 @@ Final Project and Internship
 - [Sololearn.com JS Certificate](https://github.com/Nateghi7/JavaScript-Certification/blob/main/Cert-SoloLearn-JS.png)
 - [Jlord-Patchwork] (https://github.com/Nateghi7/Jlord-Patchwork/blob/main/Github-Jlord.jpg)
 - [GitHub](https://github.com/Nateghi7)
-- [GitHub](https://github.com/Nateghi7)
+- [Jlord-Patchwork](https://github.com/Nateghi7)
