@@ -6,7 +6,7 @@ Final Project and Internship
 ---------
 
 # محمدرضا ناطقی
-- [PNU_3991_AR](https://github.com/forughiamir/PNU_3991)
+- [PNU_3991_AR](https://github.com/Nateghi7/PNU_3993_AR)
 - [Resume](https://forughiamir.github.io/) 
 - [SOP](https://forughiamir.github.io/SOP/)
 - [Certificates](https://forughiamir.github.io)
