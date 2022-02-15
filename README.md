@@ -10,4 +10,4 @@ Final Project and Internship
 - [Resume](https://forughiamir.github.io/) 
 - [SOP](https://forughiamir.github.io/SOP/)
 - [Certificates](https://forughiamir.github.io)
-- [GitHub](https://github.com/forughiamir)
+- [GitHub](https://github.com/Nateghi7)
