@@ -9,5 +9,5 @@ Final Project and Internship
 - [PNU_3991_AR](https://github.com/Nateghi7/PNU_3993_AR)
 - [Resume](https://forughiamir.github.io/) 
 - [SOP](https://forughiamir.github.io/SOP/)
-- [Certificates](https://forughiamir.github.io)
+- [Sololearn.com JS Certificate](https://github.com/Nateghi7/JavaScript-Certification/blob/main/Cert-SoloLearn-JS.png)
 - [GitHub](https://github.com/Nateghi7)
