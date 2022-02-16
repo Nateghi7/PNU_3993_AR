@@ -10,8 +10,8 @@
 # PNU_3993_AR
 Final Project and Internship
 
-- [ Final Project   132209431 (Course Code)]
-- [ Internship      132202931 (Course Code)]
+- [ Final Project    (Course Code = 132209431)]
+- [ Internship       (Course Code = 132202931)]
   
 ---------
 - [GitHub](https://github.com/Nateghi7)
