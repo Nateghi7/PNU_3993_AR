@@ -14,15 +14,18 @@ Final Project and Internship
 - [ Internship      132202931 (Course Code)]
   
 ---------
+- [GitHub](https://github.com/Nateghi7)
 - [PNU_3993_AR](https://github.com/Nateghi7/PNU_3993_AR)
+- [Jlord-Patchwork](https://github.com/Nateghi7/Jlord-Patchwork/blob/main/Github-Jlord.jpg)
+- [Sololearn.com JS Certificate](https://github.com/Nateghi7/JavaScript-Certification/blob/main/Cert-SoloLearn-JS.png)
 - [Resume](https://nateghi7.github.io/ResponsiveResumeWebsite/) 
 - [SOP](https://forughiamir.github.io/SOP/)
 - [Website Project (Final Project)](https://nateghi7.github.io/ResponsiveResumeWebsite/)
   - [Resposive Website In action - Video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/README.md)
-- [Website Project Repo](https://github.com/Nateghi7/ResponsiveResumeWebsite)
-- [Sololearn.com JS Certificate](https://github.com/Nateghi7/JavaScript-Certification/blob/main/Cert-SoloLearn-JS.png)
-- [Jlord-Patchwork](https://github.com/Nateghi7/Jlord-Patchwork/blob/main/Github-Jlord.jpg)
-- [GitHub](https://github.com/Nateghi7)
+  - [Website Project Repo](https://github.com/Nateghi7/ResponsiveResumeWebsite)
+
+
+
 - [Additional - AUT Ethereum and Smart Contract Programming Workshop Certificate](https://github.com/Nateghi7/AUTsolidityCert/blob/main/AUTsolidityCert.jpg)
 - [Additional Coinit.ir - Content Management examples](https://web.archive.org/web/20201202152336/https://www.coinit.ir/author/nateghi7/)
   - [Coinit.ir - ETH profitability Analysis](https://web.archive.org/web/20201124125429/https://www.coinit.ir/1396/11/eth_profit_analysis/)
