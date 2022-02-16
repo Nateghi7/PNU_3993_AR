@@ -23,9 +23,7 @@ Final Project and Internship
 - [Website Project (Final Project)](https://nateghi7.github.io/ResponsiveResumeWebsite/)
   - [Resposive Website In action - Video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/README.md)
   - [Website Project Repo](https://github.com/Nateghi7/ResponsiveResumeWebsite)
-
-
-
+---------
 - [Additional - AUT Ethereum and Smart Contract Programming Workshop Certificate](https://github.com/Nateghi7/AUTsolidityCert/blob/main/AUTsolidityCert.jpg)
 - [Additional Coinit.ir - Content Management examples](https://web.archive.org/web/20201202152336/https://www.coinit.ir/author/nateghi7/)
   - [Coinit.ir - ETH profitability Analysis](https://web.archive.org/web/20201124125429/https://www.coinit.ir/1396/11/eth_profit_analysis/)
