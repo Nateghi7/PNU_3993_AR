@@ -20,9 +20,8 @@ Final Project and Internship
 - [Sololearn.com JS Certificate](https://github.com/Nateghi7/JavaScript-Certification/blob/main/Cert-SoloLearn-JS.png)
 - [Resume](https://nateghi7.github.io/ResponsiveResumeWebsite/) 
 - [SOP](https://forughiamir.github.io/SOP/)
-- [Website Project (Final Project)](https://nateghi7.github.io/ResponsiveResumeWebsite/)
+- [Website Project (Final Project)](https://github.com/Nateghi7/ResponsiveResumeWebsite)
   - [Resposive Website In action - Video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/README.md)
-  - [Website Project Repo](https://github.com/Nateghi7/ResponsiveResumeWebsite)
 ---------
 - [Additional - AUT Ethereum and Smart Contract Programming Workshop Certificate](https://github.com/Nateghi7/AUTsolidityCert/blob/main/AUTsolidityCert.jpg)
 - [Additional Coinit.ir - Content Management examples](https://web.archive.org/web/20201202152336/https://www.coinit.ir/author/nateghi7/)
