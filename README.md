@@ -18,4 +18,5 @@ Final Project and Internship
 - [Additional - AUT Ethereum and Smart Contract Programming Workshop](https://github.com/Nateghi7/AUTsolidityCert/blob/main/AUTsolidityCert.jpg)
 - [Jlord-Patchwork](https://github.com/Nateghi7/Jlord-Patchwork/blob/main/Github-Jlord.jpg)
 - [GitHub](https://github.com/Nateghi7)
+- [Coinit.ir - Content Management examples](https://web.archive.org/web/20201202152336/https://www.coinit.ir/author/nateghi7/)
 
