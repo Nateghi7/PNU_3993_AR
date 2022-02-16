@@ -19,7 +19,7 @@ Final Project and Internship
 - [Jlord-Patchwork](https://github.com/Nateghi7/Jlord-Patchwork/blob/main/Github-Jlord.jpg)
 - [Sololearn.com JS Certificate](https://github.com/Nateghi7/JavaScript-Certification/blob/main/Cert-SoloLearn-JS.png)
 - [Resume](https://nateghi7.github.io/ResponsiveResumeWebsite/) 
-- [SOP](https://forughiamir.github.io/SOP/)
+- [SOP](https://)
 - [Website Project (Final Project)](https://github.com/Nateghi7/ResponsiveResumeWebsite)
   - [Resposive Website In action - Video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/README.md)
 ---------
