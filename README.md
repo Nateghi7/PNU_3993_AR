@@ -14,6 +14,11 @@ Final Project and Internship
 - [SOP](https://forughiamir.github.io/SOP/)
 - [Website Project (Final Project)](https://nateghi7.github.io/ResponsiveResumeWebsite/)
   - [Resposive Website In action]<p align="center">
+  <video width="320" height="240" controls>
+  <source src="(https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/ResumeWebsiteInAction.mp4)" type="video/mp4">
+  
+  Your browser does not support the video tag.
+</video>
     [![Watch the video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/ResumeWebsiteInAction.mp4)</p>
 
 - [Website Project Repo](https://github.com/Nateghi7/ResponsiveResumeWebsite)
