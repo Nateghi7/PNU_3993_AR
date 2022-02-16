@@ -27,5 +27,6 @@ Final Project and Internship
 - [Additional Coinit.ir - Content Management examples](https://web.archive.org/web/20201202152336/https://www.coinit.ir/author/nateghi7/)
   - [Coinit.ir - ETH profitability Analysis](https://web.archive.org/web/20201124125429/https://www.coinit.ir/1396/11/eth_profit_analysis/)
   - [Coinit.ir - Crypto Mining Calculator - How to](https://web.archive.org/web/20201126144054/https://www.coinit.ir/1396/10/mining_calculator_howto/)
+- [Additional - Linkedin](https://www.linkedin.com/in/nateghi7/)
 
 
