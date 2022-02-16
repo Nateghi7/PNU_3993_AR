@@ -13,7 +13,7 @@ Final Project and Internship
 - [Resume](https://nateghi7.github.io/ResponsiveResumeWebsite/) 
 - [SOP](https://forughiamir.github.io/SOP/)
 - [Website Project (Final Project)](https://nateghi7.github.io/ResponsiveResumeWebsite/)
-  - [Resposive Website In action] <p align="center">
+  - [Resposive Website In action]<p align="center">
     [![Watch the video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/ResumeWebsiteInAction.mp4)
 </p>
 - [Website Project Repo](https://github.com/Nateghi7/ResponsiveResumeWebsite)
