@@ -15,6 +15,7 @@ Final Project and Internship
 - [Website Project](https://nateghi7.github.io/ResponsiveResumeWebsite/)
 - [Website Project Repo](https://github.com/Nateghi7/ResponsiveResumeWebsite)
 - [Sololearn.com JS Certificate](https://github.com/Nateghi7/JavaScript-Certification/blob/main/Cert-SoloLearn-JS.png)
+- [Additional - AUT Ethereum and Smart Contract Programming Workshop](https://github.com/Nateghi7/AUTsolidityCert/blob/main/AUTsolidityCert.jpg)
 - [Jlord-Patchwork](https://github.com/Nateghi7/Jlord-Patchwork/blob/main/Github-Jlord.jpg)
 - [GitHub](https://github.com/Nateghi7)
 
