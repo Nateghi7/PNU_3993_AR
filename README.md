@@ -45,7 +45,6 @@ Final Project and Internship
 - [خلاصه ارزیابی درس_سمینار]()
 
 ------------------
-------------------
 <div align="center">
      
 ## روز و ساعت ارائه دروس
@@ -106,9 +105,9 @@ Final Project and Internship
    <tr>
     <th ></th>
      <th ><a></a></th>
-     <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture#TOC">معماری نرم افزار</a></th>
-     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies#TOC">متدولوژی ایجاد نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
+     <th ><a  href="https://github.com/Nateghi7/PNU_3993_AR">پروژه و کارآموزی</a></th>
+     <th><a  href="https://github.com/Nateghi7/PNU_3993_AR">پروژه و کارآموزی</a></th>
+    <th><a href="https://github.com/Nateghi7/PNU_3993_AR">پروژه و کارآموزی</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
