@@ -42,9 +42,9 @@ Final Project and Internship
   - [کارآموزی](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/main/1322029--29.compressed.pdf)
 ##  پروژه
   - [آدرس پروژه](https://nateghi7.github.io/ResponsiveResumeWebsite/)
-  - [پروژه](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/main/m.tarnatanz.rar)
-  - [فرم اول](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/main/400231200322_19475.jpg)
-  - [فرم دوم](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/main/400207400796_187396.jpg)
+  - [پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite)
+  - [فرم اول]( )
+  - [فرم دوم]( )
   
 ---------
 <div align="ltr">
