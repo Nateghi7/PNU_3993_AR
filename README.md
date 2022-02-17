@@ -37,10 +37,11 @@ Final Project and Internship
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Nateghi7/PNU_3993_AR/blob/main/General/MN_CV_CheckList_AR_3993.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/General/MN_GeneralSection_CheckList_AR_3993.pdf)
-  - [فرم]( )
+  
 
-##  بخش دروس کارشناسی
+##  کارآموزی
   - [کارآموزی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/CCNA%20Routing%20Protocols.pdf)
+  - [فرم]( )
 ##  پروژه
   - [آدرس پروژه](https://nateghi7.github.io/ResponsiveResumeWebsite/)
   - [پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite)
