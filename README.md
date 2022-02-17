@@ -21,7 +21,7 @@ Final Project and Internship
 - [Resume](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Resume/Nateghi7_Resume.pdf) 
 - [SOP](https://)
 - [Website Project (Final Project)](https://Nateghi7.github.io/ResponsiveResumeWebsite)
-  - [Website Project Repository (Final Project)](https://github.com/Nateghi7/ResponsiveResumeWebsite)
+  - [Website Project Repository](https://github.com/Nateghi7/ResponsiveResumeWebsite)
   - [Resposive Website In action - Video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/README.md)
 ---------
 - [Additional - AUT Ethereum and Smart Contract Programming Workshop Certificate](https://github.com/Nateghi7/AUTsolidityCert/blob/main/AUTsolidityCert.jpg)
