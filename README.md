@@ -45,7 +45,7 @@ Final Project and Internship
 - [خلاصه ارزیابی درس_سمینار]()
 
 ------------------
-<div align="center">
+<div align="ltr">
      
 ## روز و ساعت ارائه دروس
 
