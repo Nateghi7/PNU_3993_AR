@@ -38,13 +38,9 @@ Final Project and Internship
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Nateghi7/PNU_3993_AR/blob/main/General/MN_CV_CheckList_AR_3993.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/General/MN_GeneralSection_CheckList_AR_3993.pdf)
 
-##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_سمینار]()
-
-------------------
+##  بخش دروس کارشناسی
+  
+---------
 <div align="ltr">
      
 ## روز و ساعت ارائه دروس
