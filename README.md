@@ -22,7 +22,7 @@ Final Project and Internship
 - [SOP](https://)
 - [Website Project (Final Project)](https://Nateghi7.github.io/ResponsiveResumeWebsite)
   - [Website Project Repository](https://github.com/Nateghi7/ResponsiveResumeWebsite)
-  - [Resposive Website In action - Video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/README.md)
+  - [Resposive Website In action - Video](https://github.com/Nateghi7/ResponsiveResumeWebsite/tree/main/SampleMovie)
 ---------
 - [Additional - AUT Ethereum and Smart Contract Programming Workshop Certificate](https://github.com/Nateghi7/AUTsolidityCert/blob/main/AUTsolidityCert.jpg)
 - [Additional Coinit.ir - Content Management examples](https://web.archive.org/web/20201202152336/https://www.coinit.ir/author/nateghi7/)
