@@ -36,7 +36,7 @@ Final Project and Internship
 
 ##  بخش عمومی
 - [ارزیابی رزومه و انگیزه نامه](https://github.com/Nateghi7/PNU_3993_AR/blob/main/General/MN_CV_CheckList_AR_3993.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/General/MN_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
