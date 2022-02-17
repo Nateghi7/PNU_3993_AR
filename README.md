@@ -46,7 +46,7 @@ Final Project and Internship
 ##  پروژه
   - [آدرس پروژه](https://nateghi7.github.io/ResponsiveResumeWebsite/)
   - [پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite)
-  - [تست پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite)
+  - [تست پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite/tree/main/SampleMovie)
   - [فرم اول]( )
   - [فرم دوم]( )
   
