@@ -1,1 +1,1 @@
->250 hours of Routing protocols summarized based on CCNA cert materials.
+- >250 hours of Routing protocols summarized based on CCNA cert materials.
