@@ -51,6 +51,7 @@ Final Project and Internship
 
 </div>
 
+<div align="ltr"> 
 <div dir="ltr">
      
 <table style="width:100%">
@@ -112,5 +113,6 @@ Final Project and Internship
   </tr>
 </table>
 
+</div>
 </div>
 
