@@ -30,5 +30,20 @@ Final Project and Internship
   - [Coinit.ir - ETH profitability Analysis](https://web.archive.org/web/20201124125429/https://www.coinit.ir/1396/11/eth_profit_analysis/)
   - [Coinit.ir - Crypto Mining Calculator - How to](https://web.archive.org/web/20201126144054/https://www.coinit.ir/1396/10/mining_calculator_howto/)
 - [Additional - Linkedin](https://www.linkedin.com/in/nateghi7/)
+---------
+  
+  ------------------
+> ارزیابی ها
 
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس ارشد
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_معماری نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareArchitecture/SZ_SoftwareArchitecture_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_سمینار]()
+
+------------------
 
