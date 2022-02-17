@@ -41,6 +41,7 @@ Final Project and Internship
 
 ##  کارآموزی
   - [کارآموزی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/CCNA%20Routing%20Protocols.pdf)
+  - [توضیحات](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/readme.md)
   - [فرم]( )
 ##  پروژه
   - [آدرس پروژه](https://nateghi7.github.io/ResponsiveResumeWebsite/)
