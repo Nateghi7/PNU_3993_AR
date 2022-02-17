@@ -18,7 +18,7 @@ Final Project and Internship
 - [PNU_3993_AR](https://github.com/Nateghi7/PNU_3993_AR)
 - [Jlord-Patchwork](https://github.com/Nateghi7/PNU_3993_AR/tree/main/Jlord-Patchwork)
 - [Sololearn.com JS Certificate](https://github.com/Nateghi7/PNU_3993_AR/tree/main/Sololearn.com_JS_Cert)
-- [Resume](https://nateghi7.github.io/ResponsiveResumeWebsite/) 
+- [Resume](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Resume/Nateghi7_Resume.pdf) 
 - [SOP](https://)
 - [Website Project (Final Project)](https://github.com/Nateghi7/ResponsiveResumeWebsite)
   - [Resposive Website In action - Video](https://github.com/Nateghi7/WebResumeSampleMovie/blob/main/README.md)
