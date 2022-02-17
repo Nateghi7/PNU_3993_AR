@@ -39,6 +39,13 @@ Final Project and Internship
 - [خلاصه ارزیابی بخش عمومی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/General/MN_GeneralSection_CheckList_AR_3993.pdf)
 
 ##  بخش دروس کارشناسی
+  # - دروس کارشناسی
+  - [کارآموزی](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/main/1322029--29.compressed.pdf)
+# - پروژه
+  - [آدرس پروژه](http://tarnatanz.ir/)
+  - [پروژه](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/main/m.tarnatanz.rar)
+  - [فرم اول](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/main/400231200322_19475.jpg)
+  - [فرم دوم](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/main/400207400796_187396.jpg)
   
 ---------
 <div align="ltr">
