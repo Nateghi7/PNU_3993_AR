@@ -114,5 +114,4 @@ Final Project and Internship
 </table>
 
 </div>
-</div>
 
