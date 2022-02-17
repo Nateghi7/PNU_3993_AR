@@ -67,7 +67,7 @@ Final Project and Internship
     <th ><a > </a></th>
     <th ><a > </a></th>
     <th></th>
-    <th ><a >پروژه و کارآموزی </a></th>
+    <th ><a href="https://github.com/Nateghi7/PNU_3993_AR">پروژه و کارآموزی </a></th>
     <th>شنبه</th>
   </tr>
    <tr>
@@ -75,7 +75,7 @@ Final Project and Internship
     <th ></th>
     <th></th>
     <th></th>
-    <th ><a >پروژه و کارآموزی </a></th>
+    <th ><a href="https://github.com/Nateghi7/PNU_3993_AR">پروژه و کارآموزی </a></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
@@ -83,7 +83,7 @@ Final Project and Internship
      <th ><a > </a></th>
      <th><a  > </a></th>
     <th ></th> 
-    <th><a >پروژه و کارآموزی</a></th>
+    <th><a href="https://github.com/Nateghi7/PNU_3993_AR">پروژه و کارآموزی</a></th>
   <th>دوشنبه</th>
   </tr>
    <tr>
@@ -91,7 +91,7 @@ Final Project and Internship
     <th ></th>
     <th></th>
     <th></th>
-    <th ><a >پروژه و کارآموزی</a></th>
+    <th ><a href="https://github.com/Nateghi7/PNU_3993_AR">پروژه و کارآموزی</a></th>
     <th>سه شنبه</th>
   </tr>
    <tr>
@@ -99,7 +99,7 @@ Final Project and Internship
     <th ></th>
     <th></th>
     <th></th>
-     <th ><a >پروژه و کارآموزی</a></th>
+     <th ><a href="https://github.com/Nateghi7/PNU_3993_AR">پروژه و کارآموزی</a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
