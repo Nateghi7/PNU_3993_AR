@@ -41,7 +41,7 @@ Final Project and Internship
   
 
 ##  کارآموزی
-  - [خلاصه ارزیابی درس کارآموزی](https://github.com/aminh58/PNU_3991_AR/blob/main/Internship/Intern.pdf)
+  - [خلاصه ارزیابی درس کارآموزی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/InternshipReport/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%DA%A9%D8%A7%D8%B1%D8%A2%D9%85%D9%88%D8%B2%DB%8C.pdf)
   - [چکیده کارآموزی - انگلیسی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/CCNA%20Routing%20Protocols.pdf)
   - [توضیحات](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/readme.md)
   - [فرم]( )
