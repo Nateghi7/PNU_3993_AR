@@ -24,6 +24,7 @@ Final Project and Internship
 - [Website Project (Final Project)](https://Nateghi7.github.io/ResponsiveResumeWebsite)
   - [Website Project Repository](https://github.com/Nateghi7/ResponsiveResumeWebsite)
   - [Resposive Website In action - Video](https://github.com/Nateghi7/ResponsiveResumeWebsite/tree/main/SampleMovie)
+  - [Project Report - Farsi](https://github.com/Nateghi7/PNU_3993_AR/blob/main/FinalProjectReport/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
 ---------
 - [Additional - AUT Ethereum and Smart Contract Programming Workshop Certificate](https://github.com/Nateghi7/PNU_3993_AR/tree/main/AUTsolidityCert)
 - [Additional Coinit.ir - Content Management examples](https://web.archive.org/web/20201202152336/https://www.coinit.ir/author/nateghi7/)
@@ -42,7 +43,7 @@ Final Project and Internship
 ##  کارآموزی
   - [خلاصه ارزیابی درس کارآموزی](https://github.com/aminh58/PNU_3991_AR/blob/main/Internship/Intern.pdf)
   )
-  - [کارآموزی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/CCNA%20Routing%20Protocols.pdf)
+  - [چکیده کارآموزی - انگلیسی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/CCNA%20Routing%20Protocols.pdf)
   - [توضیحات](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/readme.md)
   - [فرم]( )
 ##  پروژه
