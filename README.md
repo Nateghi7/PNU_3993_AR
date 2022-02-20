@@ -40,12 +40,15 @@ Final Project and Internship
   
 
 ##  کارآموزی
+  - [خلاصه ارزیابی درس کارآموزی](https://github.com/aminh58/PNU_3991_AR/blob/main/Internship/Intern.pdf)
+  )
   - [کارآموزی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/CCNA%20Routing%20Protocols.pdf)
   - [توضیحات](https://github.com/Nateghi7/PNU_3993_AR/blob/main/Routing-Protocols-Summary/readme.md)
   - [فرم]( )
 ##  پروژه
   - [آدرس پروژه](https://nateghi7.github.io/ResponsiveResumeWebsite/)
-  - [پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite)
+  - [ریپازیتوری پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite)
+  - [گزارش پروژه پایانی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/FinalProjectReport/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
   - [تست پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite/tree/main/SampleMovie)
   - [فرم اول]( )
   - [فرم دوم]( )
