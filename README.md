@@ -51,8 +51,8 @@ Final Project and Internship
   - [ریپازیتوری پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite)
   - [گزارش پروژه پایانی](https://github.com/Nateghi7/PNU_3993_AR/blob/main/FinalProjectReport/%D9%BE%D8%B1%D9%88%DA%98%D9%87%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C.pdf)
   - [تست پروژه](https://github.com/Nateghi7/ResponsiveResumeWebsite/tree/main/SampleMovie)
-  - [فرم اول]( )
-  - [فرم دوم]( )
+  - [فرم اول](https://github.com/Nateghi7/PNU_3993_AR/blob/main/FinalProjectReport/Forms/%D9%81%D8%B1%D9%85%201.pdf)
+  - [فرم دوم](https://github.com/Nateghi7/PNU_3993_AR/blob/main/FinalProjectReport/Forms/%D9%81%D8%B1%D9%85%202.pdf)
   
 ---------
 <div align="ltr">
